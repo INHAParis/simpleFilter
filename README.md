@@ -16,7 +16,7 @@ Vous pouvez choisir entre deux solutions :
 Il suffit avoir un input dans l'html :
 
     
-    <input type="text" id="inputFilter" placeholder="Saisir votre filtre..."></input>
+    <input type="text" id="idInput" placeholder="Saisir votre filtre..."></input>
     
 
 et des objets à filtrer (ex. img)
