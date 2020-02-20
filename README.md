@@ -15,12 +15,16 @@ Vous pouvez choisir entre deux solutions :
 
 Il suffit avoir un input dans l'html :
 ...
+
 <input type="text" id="inputFilter" placeholder="Saisir votre filtre..."></input>
+
 ...
 
 et des objets à filtrer (ex. img)
 ...
+
 <img src="img1.jpg" title="Fleurs">
 <img src="img2.jpg" title="Paysage">
 <img src="img3.jpg" title="Ville">
+
 ...
