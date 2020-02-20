@@ -14,17 +14,15 @@ Vous pouvez choisir entre deux solutions :
 - [simpleFilterFunction.js](https://github.com/INHAParis/simpleFilter/blob/master/js/simpleFilterFunction.js) : pour utiliser le script en tant que fonction (ex. sur un bouton onclick="simpleFilter()")
 
 Il suffit avoir un input dans l'html :
-...
 
-<input type="text" id="inputFilter" placeholder="Saisir votre filtre..."></input>
-
-...
+    
+    <input type="text" id="inputFilter" placeholder="Saisir votre filtre..."></input>
+    
 
 et des objets à filtrer (ex. img)
-...
 
-<img src="img1.jpg" title="Fleurs">
-<img src="img2.jpg" title="Paysage">
-<img src="img3.jpg" title="Ville">
-
-...
+    
+    <img src="img1.jpg" title="Fleurs">
+    <img src="img2.jpg" title="Paysage">
+    <img src="img3.jpg" title="Ville">
+    
